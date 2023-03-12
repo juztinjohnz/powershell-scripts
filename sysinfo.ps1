@@ -1,3 +1,7 @@
+#This script uses Windows Management Instrumentation (WMI) and Common Information Model (CIM) to get system information, and the Windows Forms assembly to create a GUI.
+#To run this script, open Windows PowerShell and navigate to the directory where the script is saved. and type .\sysinfo.ps1 
+
+
 # Import Windows Forms assembly
 Add-Type -AssemblyName System.Windows.Forms
 
